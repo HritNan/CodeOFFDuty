@@ -1,5 +1,5 @@
 # HOW TO RUN THE WEB APP
-Just run all the cells of 04_sequential_mutlitask.ipynb#. This will make your back end ready and link it to the front end wep app.
+Just run all the cells of 04_sequential_mutlitask.ipynb#. This will make your back end ready and also links it to the front end web app hosted on anvil.
 Web App Link : https://fjr5jpmnzd7wdjwh.anvil.app/C75K3LNKLE4OL5CZXDNYUISO/
 
 # Facial BMI,AGE AND GENDER prediction
